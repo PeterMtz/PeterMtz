@@ -5,7 +5,7 @@ I'm Peter Martinez 👋 I work as Market Development and Key Account Manager in 
 - 🌱 I’m currently learning ... Geo Spatial Analysis.
 - 💞️ I’m looking to collaborate on ... Market research projects.
 - 📫 How to reach me ... peter.mtz.gtz@gmail.com
-- :zap: Fun Fact ...  I can sleep anywhere.
+- :zap: Fun Fact ...  I can sleep whenever and wherever.
 
 <!---
 PeterMtz/PeterMtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
