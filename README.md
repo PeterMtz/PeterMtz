@@ -15,6 +15,7 @@ Passionate about blending business insight with technical solutions of AI, Machi
 
 🌱 I’m currently learning:
 - Geospatial Analysis.
+- Social Listening.
 
 📫 How to reach me: peter.mtz.gtz@gmail.com 
 
